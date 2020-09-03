@@ -429,3 +429,24 @@ h6 a:hover {
 
 /*Loading*/
 
+.newCSS{
+  background-color: #696969;
+
+}
+
+div figure img{
+  width: 50%;
+  padding: 1%;
+  float: left;
+  border-radius: 10px;
+  height: -webkit-fill-available;
+}
+div figure video{
+  width: 50%;
+  padding: 1%;
+  border-radius: 10px;
+  margin-left: 25%;
+}
+
+/*olaf*/
+
